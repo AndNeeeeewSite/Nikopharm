@@ -1,0 +1,250 @@
+main {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #3f3b3b;
+}
+
+.about-company__h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  color: #008dcc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 13px;
+}
+
+.blue-dot {
+  width: 15px;
+  height: 15px;
+  border-radius: 100000000px;
+  background-color: #008dcc;
+}
+
+.about-company {
+  padding-top: 104px;
+  padding-bottom: 138px;
+  border-bottom: 0.7px solid rgba(0, 141, 204, 0.4);
+}
+
+.production__h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  color: #008dcc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 13px;
+  margin-top: 100px;
+}
+
+.production__list {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 50px;
+  align-items: center;
+}
+
+.list__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.certification {
+  width: 333px;
+}
+
+.manufacture {
+  width: 168px;
+}
+
+.ampoule {
+  width: 308px;
+}
+
+.production__change-div {
+  border-radius: 10px;
+  width: 576px;
+  height: 574px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background: #fff;
+  padding-top: 34px;
+  margin-top: 50px;
+  padding-bottom: 17px;
+}
+
+.production__h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  color: #353232;
+  margin-left: 74px;
+}
+
+.production__h4 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  color: #3f3b3b;
+  margin-left: 74px;
+}
+
+.production__button-next,
+.production__button-back {
+  padding-top: 19px;
+  padding-bottom: 16px;
+  padding-left: 18px;
+  padding-right: 16px;
+  outline: 2px solid #AFB2B4;
+  border-radius: 5px;
+  position: absolute;
+  margin-top: 254px;
+}
+
+.production__button-back {
+  margin-left: 25px;
+}
+
+.production__button-next {
+  margin-left: 24px;
+}
+
+.production__change-img {
+  width: 367px;
+  height: 318px;
+  margin-left: 106px;
+  margin-top: 40px;
+  margin-bottom: 29px;
+}
+
+.tele__chat {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+
+.production__new {
+  width: 60px;
+  height: 60px;
+  border-radius: 100000px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+  background-color: #008dcc;
+  position: absolute;
+  z-index: 2;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top: -531px;
+  margin-left: 478px;
+}
+
+.production__div-small {
+  border-radius: 10px;
+  width: 295px;
+  height: 271px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background: #fff;
+  padding-top: 12px;
+  padding-bottom: 9px;
+}
+
+.production__h3-small {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #353232;
+  margin-left: 24px;
+}
+
+.production__h4-small {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #3f3b3b;
+  margin-left: 24px;
+}
+
+.production__button-next-small,
+.production__button-back-small {
+  padding-top: 19px;
+  padding-bottom: 16px;
+  padding-left: 18px;
+  padding-right: 16px;
+  outline: 2px solid #AFB2B4;
+  border-radius: 5px;
+  position: absolute;
+  margin-top: 254px;
+}
+
+.production__button-back-small {
+  margin-left: 25px;
+}
+
+.production__button-next-small {
+  margin-left: 24px;
+}
+
+.production__change-img-small {
+  width: 226px;
+  height: 142px;
+  margin-left: 24px;
+  margin-top: 8px;
+  margin-bottom: 6px;
+}
+
+.production__divs {
+  display: flex;
+  flex-wrap: wrap;
+  -moz-column-gap: 76px;
+       column-gap: 76px;
+  row-gap: 32px;
+  width: 666px;
+  padding-top: 50px;
+}
+
+.production__preparats {
+  display: flex;
+  gap: 78px;
+}
+
+.production__link {
+  width: 295px;
+  display: flex;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 55px;
+  padding-right: 55px;
+  gap: 8px;
+  border: 2px solid #afb2b4;
+  border-radius: 5px;
+  margin-top: 40px;
+  margin-left: 1000px;
+  margin-bottom: 50px;
+}
+
+.production {
+  border-bottom: 0.7px solid rgba(0, 141, 204, 0.4);
+}
+
+.production__title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  color: #008dcc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 13px;
+  margin-top: 150px;
+  margin-bottom: 180px;
+}
